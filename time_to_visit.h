@@ -10,7 +10,8 @@ class time
   public:
     time()
     {
-        cout << "Enter the type of place : 1. Beaches" << endl;
+        cout << "Enter the type of place :";
+        cout << " 1. Beaches" << endl;
         cout << "                          2. Amusement Parks" << endl;
         cout << "                          3. Zoo" << endl;
         cout << "                          4. Temples" << endl;
