@@ -2,22 +2,6 @@
 #include <fstream>
 #include <string.h>
 using namespace std;
-char* getl(ifstream f,char a)
-{
-    char *n,c;
-    int i=0;
-    while(!f.eof())
-    {
-        f>>c;
-        while(c!=a)
-        {
-            *(n+i)=c;
-            i++;
-        }
-
-    }
-    return n;
-}
 int main()
  {
   fstream f;
