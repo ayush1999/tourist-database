@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1509346399 source:/home/ashrit/Documents/tourist/tour.cpp
+	"place.h"
+
+1509371536 /home/ashrit/Documents/tourist/place.h
+	"read.h"
+
+1509371811 /home/ashrit/Documents/tourist/read.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"travel.h"
+
+1509371744 /home/ashrit/Documents/tourist/travel.h
+	<iostream>
+	<fstream>
+	<string>
+
