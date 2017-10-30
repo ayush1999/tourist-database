@@ -2,8 +2,8 @@
 #include<fstream>
 using namespace std;
 class BaseUser{
-    int choice;
 public:
+    int choice;
     BaseUser(){
         cout<<"Are you a 1. User"<<endl;
         cout<<"          2. Managing Staff";
