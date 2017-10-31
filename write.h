@@ -6,6 +6,7 @@
 #include <string>
 #include<vector>
 #include<stdlib.h>
+using namesapce std;
 void add(int i);
 void del(int i);
 class details
