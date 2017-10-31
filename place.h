@@ -44,5 +44,9 @@ void showp()
     places p;
     p.show();
 }
+void showq()
+{
+
+}
 
 #endif // PLACE_H_INCLUDED

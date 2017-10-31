@@ -34,7 +34,7 @@ void travel(int i)
             f.getline(a,500,',');
             f.getline(tr,100,',');
             f.getline(ti,100);
-            if(c==i)
+            if(c==i+1)
                 cout<<tr<<"\n\n"<<a;
             c++;
         }

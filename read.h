@@ -7,10 +7,7 @@
 #include<vector>
 #include"travel.h"
 using namespace std;
-class details
-{
 
-};
 void beaches()
  {
 
