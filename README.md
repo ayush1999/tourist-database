@@ -1,4 +1,4 @@
-# Database of Tourist Places in Odisha.
+# Database of Tourist Places in Odisha (3rd Semester Project)
 
 ## Dividing the work into 5 parts:
 
